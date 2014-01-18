@@ -3,9 +3,9 @@
 $docuSign=new DocuSign();
 
 // Set propper values for DocuSign Developer
-$docuSign->setIntegratorKey('BNAM-0025a7c5-dbbb-4324-ba0d-86cca9119cac');
-$docuSign->setUsername('toso.trajanov@gmail.com');
-$docuSign->setPassword('tt2889');
+$docuSign->setIntegratorKey('Integrator Key');
+$docuSign->setUsername('Email');
+$docuSign->setPassword('Password');
 
 //Check if the user is connected
 $docuSign->checkUser();
