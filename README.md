@@ -10,3 +10,7 @@ and set up a Free Demo Account and credentials for your project.
 
 Check the example.php file if you need assistance for using this class.  
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/TsTrv/docusign/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
